@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://OstapenkoIvan.github.io/team-project",
+  "homepage": "https://Champion-AS.github.io/team__project-Ace-cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project/"
+    "build": "parcel build src/*.html --public-url /team__project-Ace-cream/"
   },
   "repository": {
     "type": "git",
